@@ -12,3 +12,6 @@ probe_out.txt
 
 # Game data extracted by the tools (copyrighted, never commit)
 data/
+
+# Release packages
+*.zip
