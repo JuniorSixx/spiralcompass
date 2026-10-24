@@ -1,0 +1,14 @@
+# Build output (published as a GitHub Release instead)
+*.exe
+
+# Runtime files written by the mod / panel
+cmd.txt
+cmd.txt.tmp
+state.txt
+state.txt.tmp
+last_quest.txt
+probe.lua
+probe_out.txt
+
+# Game data extracted by the tools (copyrighted, never commit)
+data/
